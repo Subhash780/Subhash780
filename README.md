@@ -1,5 +1,5 @@
 <h1 align="center">💫Subhash Choppara</h1>
-<h3 align="center">Passionate Data Scientist From India</h3>
+<h3 align="center">Passionate Data analyst From India</h3>
 
 This is the place where I open source stuff and break things 👨‍💻 
 - 👨‍💻 I'm currently learning Data Science.
