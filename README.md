@@ -16,10 +16,10 @@ This is the place where I open source stuff and break things 👨‍💻
 ### Skills:
 
 <a href="https://www.pythonprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="python" /></a>
-<a href="https://pandas" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt=pandas /></a>
-<a href="https://numpy" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt=numpy /></a>
-<a href="https://Sql/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="SQl" /></a>
-<a href="https://machine learning/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="ML" /></a>
+<a href="https://pandas" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="36" height="36" alt=pandas /></a>
+<a href="https://numpy" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="36" height="36" alt=numpy /></a>
+<a href="https://Sql/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sql&theme=dark" width="36" height="36" alt="SQl" /></a>
+<a href="https://machine learning/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ML&theme=dark" width="36" height="36" alt="ML" /></a>
 <a href="https://www.power bi/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="power bi" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
