@@ -18,7 +18,7 @@ This is the place where I open source stuff and break things 👨‍💻
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="36" height="36" alt="Pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="36" height="36" alt="NumPy" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="SQL" /></a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ml&theme=dark" width="36" height="36" alt="Machine Learning" /></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="36" height="36" alt="Machine Learning" /></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="36" height="36" alt="Power BI" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
