@@ -32,8 +32,8 @@ This is the place where I open source stuff and break things 👨‍💻
 ### GitHub Analytics:
 
 <p>
-<a href="https://github.com/Subhash_choppara">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Subhash_choppara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Subhash_choppara&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<a href="https://github.com/Subhash780">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Subhash780&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Subhash780&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> -->
 </a>
 </p>
