@@ -1,9 +1,8 @@
-
-<h1 align="center">💫Subhash choppara</h1>
-<h3 align="center">Passionate Data scientist From India</h3>
+<h1 align="center">💫Subhash Choppara</h1>
+<h3 align="center">Passionate Data Scientist From India</h3>
 
 This is the place where I open source stuff and break things 👨‍💻 
-- 👨‍💻 I'm currently learning Data science.
+- 👨‍💻 I'm currently learning Data Science.
 - 📫 How to reach me: **chopparasubhash@gmail.com**
 - ⚡ Fun fact: I love to code while listening to music 🎧
 
@@ -15,21 +14,20 @@ This is the place where I open source stuff and break things 👨‍💻
 
 ### Skills:
 
-<a href="https://www.pythonprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="python" /></a>
-<a href="https://pandas" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="36" height="36" alt=pandas /></a>
-<a href="https://numpy" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="36" height="36" alt=numpy /></a>
-<a href="https://Sql/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sql&theme=dark" width="36" height="36" alt="SQl" /></a>
-<a href="https://machine learning/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ML&theme=dark" width="36" height="36" alt="ML" /></a>
-<a href="https://www.power bi/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="power bi" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="Python" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="36" height="36" alt="Pandas" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="36" height="36" alt="NumPy" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="SQL" /></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ml&theme=dark" width="36" height="36" alt="Machine Learning" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="36" height="36" alt="Power BI" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
-
 
 ### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-choppara)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/subhash_choppara/)
-[![Email](https://img.shields.io/badge/Gmail-%23E4410F.svg?logo=Gmail&logoColor=white)](mailto:chopparasubhash@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:chopparasubhash@gmail.com)
 
 ### GitHub Analytics:
 
@@ -39,4 +37,3 @@ This is the place where I open source stuff and break things 👨‍💻
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Subhash_choppara&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> -->
 </a>
 </p>
-
